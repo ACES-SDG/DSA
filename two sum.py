@@ -14,8 +14,4 @@ class Solution:
 class_obj = Solution()
 answer = class_obj.twoSum([3,3],6)
 
-
-
-
-
 print(answer)
